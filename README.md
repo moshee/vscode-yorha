@@ -1,0 +1,1 @@
+VSCode theme (code and editor) inspired by the NieR: Automata game UI
